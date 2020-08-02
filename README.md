@@ -1,5 +1,5 @@
 # java-latex
-Use LaTeX commands from Java
+<h1>Use LaTeX commands from Java</h1>
 
 The pair of programs, getaux and replabels, allows using the LaTeX
 commands \ref, \pageref and \verb from within Java comments to
